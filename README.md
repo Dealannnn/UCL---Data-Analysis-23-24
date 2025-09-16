@@ -32,21 +32,18 @@ Exemples de visualisations générées dans le projet :
 
 ---
 
-## 🚀 Objectifs futurs
+## Objectifs futurs
 
-- Étendre le projet à l’édition 24/25 de la LDC.  
+- Étendre le projet à l’édition 25/26 de la LDC.  
 - Intégrer des données de championnat (Premier League, Ligue 1…).  
 - Automatiser la récupération des données (web scraping ou API).  
 
 ---
 
-## 🛠️ Tech Stack
+## Langages Utilisés 
 
-- Python**
-- Pandas**, **Matplotlib**, **Seaborn**
+- **Python**
+- **Pandas**, **Matplotlib**, **Seaborn**
 - **Jupyter Notebook**
 
 ---
-
-📂 Structure du projet
-
