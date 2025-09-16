@@ -1,11 +1,13 @@
-# ⚽ UEFA Champions League 23/24 - Data Analysis
+# UEFA Champions League 23/24 - Data Analysis
 
-📊 Petit projet perso mêlant **football & data analysis**, autour de la Ligue des Champions 2023/2024.  
+Auteur : Dylan WAZIRI
+
+Petit projet perso mêlant **football & data analysis**, autour de la Ligue des Champions 2023/2024.  
 L’objectif est de mettre en lumière certaines tendances à travers les **expected goals (xG/xGA)** et de comparer les performances réelles aux performances attendues.
 
 ---
 
-## 🔍 Analyses réalisées
+## Analyses réalisées
 
 1. **Efficacité offensive (GF/xG)**
    - Qui a marqué plus (ou moins) que prévu ?
@@ -22,7 +24,7 @@ L’objectif est de mettre en lumière certaines tendances à travers les **expe
 
 ---
 
-## 📊 Résultats
+## Résultats
 
 Exemples de visualisations générées dans le projet :
 
